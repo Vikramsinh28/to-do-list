@@ -114,14 +114,7 @@ function App() {
                 </Typography>
             </Box>  
             </Box>
-              
-
-
           </Box>
-
-          
-
-
       </Container>
      </React.Fragment>
   );
